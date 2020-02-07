@@ -10,23 +10,25 @@ Tensorflow 2.X
 - [코드](https://github.com/GreenD93/ssd-tf2)
 
 * [ ] Yolo v3 (You Only Look Once v3)
-[논문]()
-[코드]()
+- [논문]
+- [코드]
 
 * [ ] Faster R-CNN 
-[논문]()
-[코드]()
+- [논문]
+- [코드]
 
 Pytorch 1.X
 
 * [ ] SSD (Single Shot Object Detection)
-[논문]
-[코드]
+- [논문]
+- [코드]
 
 * [ ] Yolo v3 (You Only Look Once v3)
-[논문]()
-[코드]()
+- [논문]
+- [코드]
 
 * [ ] Faster R-CNN 
-[논문]()
-[코드]()
+- [논문]
+- [코드]
+
+### OCR(Optical Character Recognition)
