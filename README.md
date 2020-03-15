@@ -17,18 +17,15 @@ Tensorflow 2.X
 - [논문]
 - [코드]
 
-Pytorch 1.X
-
-* [ ] SSD (Single Shot Object Detection)
+### Semantic segmentation
+* [ ] U-net
 - [논문]
 - [코드]
 
-* [ ] Yolo v3 (You Only Look Once v3)
-- [논문]
-- [코드]
-
-* [ ] Faster R-CNN 
+* [ ] Mask R-CNN
 - [논문]
 - [코드]
 
 ### OCR(Optical Character Recognition)
+
+### GAN(Generative adversarial networks)
